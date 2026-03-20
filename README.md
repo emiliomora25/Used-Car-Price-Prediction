@@ -43,3 +43,8 @@ Iterative tuning of:
 - min_samples_split: [2, 5, 10]
 - min_samples_leaf: [1, 2, 4]
 - max_features: ['sqrt', 'log2']
+
+## Author
+Emilio López De La Mora
+
+
